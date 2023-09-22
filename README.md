@@ -78,7 +78,7 @@ This code works with the always on sandbox!
 https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology
 
 ```console
-export MERAKI_DASHBOARD_API_KEY=fd6dd87d96915f21bc0e0b3d96a866ff0e53e381
+export MERAKI_DASHBOARD_API_KEY=6bec40cf957de430a6f1f2baa056b99a4fac9ea0
 
 
 ```
